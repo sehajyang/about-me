@@ -1,0 +1,57 @@
+# About Me
+
+## Yunjey
+
+
+
+## Skill Set
+
+Java / JavaScript     
+
+JSP/Servlet / JSON / Jquery / Ajax / JSTL / html5 / CSS3 / Spring /Spring Security     
+
+BootStrap
+
+ApacheTomcat   
+
+MySQL / Oracle / Mybatis  
+
+Git / Github / SVN 
+
+Eclipse / Vim / Visual Studio / Maven
+
+
+
+## Learning
+
+Unmanaged languages (C)   
+
+Ubuntu /Kali Linux 
+
+Secure Coding
+
+Reversing engineering     
+
+Penetration testing(Metasploit)   
+
+Computer architecture / Data structure
+
+
+
+## Interesting
+
+Ruby / Python / Go
+
+Openstack / Docker
+
+Blockchain
+
+
+
+## Experiences
+
+* 180628 [OpenInfra Days Korea 2018](https://www.openinfradays.kr/)
+
+* 180628 [SmartTech in Korea 2018](http://www.smarttechshow.co.kr/)
+
+  
