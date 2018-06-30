@@ -40,8 +40,6 @@ Computer architecture / Data structure
 
 ## Interesting
 
-Ruby / Python / Go
-
 Openstack / Docker
 
 Blockchain
