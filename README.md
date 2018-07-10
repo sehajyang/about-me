@@ -52,4 +52,4 @@ Blockchain
 
 * 180628 [SmartTech in Korea 2018](http://www.smarttechshow.co.kr/)
 
-  
+* 180708 [개발자의 생존전략 41기](https://onoffmix.com/event/139310)
