@@ -6,17 +6,19 @@
 
 ## Skill Set
 
-Java / JavaScript     
+Java / JavaScript    
 
 JSP/Servlet / JSON / Jquery / Ajax / JSTL / html5 / CSS3 / Spring /Spring Security     
 
-BootStrap
+BootStrap / Mybatis  
 
-ApacheTomcat   
+ApacheTomcat 
 
-MySQL / Oracle / Mybatis  
+Docker / AWS
 
-Git / Github / SVN 
+MySQL / Oracle
+
+Git / SVN 
 
 Eclipse / Vim / Visual Studio / Maven
 
