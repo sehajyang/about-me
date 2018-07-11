@@ -42,9 +42,6 @@ Computer architecture / Data structure
 
 Openstack / Docker
 
-Blockchain
-
-
 
 ## Experiences
 
