@@ -26,9 +26,11 @@ Eclipse / Vim / Visual Studio / Maven
 
 ## Learning
 
-Unmanaged languages (C)   
+Unmanaged languages (C) / Python
 
-Ubuntu /Kali Linux 
+Spring Boot / Node.js
+
+Ubuntu / Kali Linux 
 
 Secure Coding
 
@@ -52,3 +54,5 @@ Openstack / Docker
 * 180628 [SmartTech in Korea 2018](http://www.smarttechshow.co.kr/)
 
 * 180708 [개발자의 생존전략 41기](https://onoffmix.com/event/139310)
+
+* 180715 [웹 취약점 진단 교육]()
