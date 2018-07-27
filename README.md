@@ -56,3 +56,5 @@ Openstack / Docker
 * 180708 [개발자의 생존전략 41기](https://onoffmix.com/event/139310)
 
 * 180715 [웹 취약점 진단 교육]()
+
+* 180728 [Seoul.js Lightning Talk]()
