@@ -2,15 +2,18 @@
 
 ## Yunjey
 
+Junior Web Developer
+넓고 얕은 지식 확장중인 뉴비개발자
+욕심내되 꾸준히 하자는 모토를 갖고있습니다 :)
 
 
 ## Skill Set
 
 Java / JavaScript    
 
-JSP/Servlet / JSON / Jquery / Ajax / JSTL / html5 / CSS3 / Spring /Spring Security     
+JSP/Servlet / JSON / Jquery / Ajax / JSTL /  html5 / CSS3 / Spring / Spring Security     
 
-BootStrap / Mybatis  
+BootStrap / Mybatis 
 
 ApacheTomcat 
 
@@ -20,7 +23,9 @@ MySQL / Oracle
 
 Git / SVN 
 
-Eclipse / Vim / Visual Studio / Maven
+Ubuntu / Kali Linux 
+
+Eclipse / Vim / Visual Studio
 
 
 
@@ -29,8 +34,6 @@ Eclipse / Vim / Visual Studio / Maven
 Unmanaged languages (C) / Python
 
 Spring Boot / Node.js
-
-Ubuntu / Kali Linux 
 
 Secure Coding
 
@@ -44,7 +47,7 @@ Computer architecture / Data structure
 
 ## Interesting
 
-Openstack / Docker
+Openstack / Docker / TypeScript
 
 
 ## Experiences
@@ -58,3 +61,13 @@ Openstack / Docker
 * 180715 [웹 취약점 진단 교육]()
 
 * 180728 [Seoul.js Lightning Talk]()
+
+
+## Contact
+[Mail](sehajyang@gmail.com)
+
+[Blog](https://yunjey0.github.io/)
+
+[Twitter](https://twitter.com/yunjey0)
+
+
