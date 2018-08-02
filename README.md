@@ -6,7 +6,7 @@ Junior Web Developer
 
 넓고 얕은 지식 확장중인 뉴비개발자
 
-욕심내되 꾸준히 하자는 모토를 갖고있습니다 :)
+욕심내되 꾸준히 하자는 모토를 갖고있습니다 :D
 
 
 ## Skill Set
@@ -53,8 +53,9 @@ Computer architecture / Data structure
 
 ## Interesting
 
-Openstack / Docker
+Vue.js / Angular.js / React.js
 
+Openstack / Docker
 
 ## Experiences
 
