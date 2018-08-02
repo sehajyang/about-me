@@ -1,6 +1,6 @@
 # About Me
 
-## Yunjey
+## Seha
 
 Junior Web Developer
 
@@ -27,7 +27,7 @@ Git / SVN
 
 Ubuntu / Kali Linux 
 
-Eclipse / Vim / Visual Studio
+Eclipse / Vim / Visual Studio / Atom
 
 
 
@@ -35,7 +35,11 @@ Eclipse / Vim / Visual Studio
 
 Unmanaged languages (C) / Python
 
+TypeScript
+
 Spring Boot / Node.js
+
+MongoDB
 
 Secure Coding
 
@@ -49,7 +53,7 @@ Computer architecture / Data structure
 
 ## Interesting
 
-Openstack / Docker / TypeScript
+Openstack / Docker
 
 
 ## Experiences
