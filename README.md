@@ -11,24 +11,15 @@ Junior Web Developer
 
 ## Skill Set
 
-Java / JavaScript    
+Java
 
-JSP/Servlet / JSON / Jquery / Ajax / JSTL /  html5 / CSS3 / Spring / Spring Security     
+JavaScript / Node.js
 
-BootStrap / Mybatis 
-
-ApacheTomcat 
+Spring
 
 Docker / AWS
 
 MySQL / Oracle
-
-Git / SVN 
-
-Ubuntu / Kali Linux 
-
-Eclipse / Vim / Visual Studio / Atom
-
 
 
 ## Learning
@@ -37,18 +28,11 @@ Unmanaged languages (C) / Python
 
 TypeScript
 
-Spring Boot / Node.js
-
 MongoDB
 
 Secure Coding
 
 Reversing engineering     
-
-Penetration testing(Metasploit)   
-
-Computer architecture / Data structure
-
 
 
 ## Interesting
@@ -73,8 +57,8 @@ Openstack / Docker
 ## Contact
 [Mail](sehajyang@gmail.com)
 
-[Blog](https://yunjey0.github.io/)
+[Blog](https://sehajyang.github.io/)
 
-[Twitter](https://twitter.com/yunjey0)
+[Twitter](https://twitter.com/sehajyang)
 
 
