@@ -55,7 +55,7 @@ Openstack / Docker
 
 
 ## Contact
-[Mail](malito:sehajyang@gmail.com)
+[Mail](mailto:sehajyang@gmail.com)
 
 [Blog](https://sehajyang.github.io/)
 
