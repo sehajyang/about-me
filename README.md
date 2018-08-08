@@ -19,14 +19,18 @@ Spring
 
 Docker / AWS
 
+Linux 
+
 MySQL / Oracle
+
+Eclipse / Atom / VS Code / Vim
 
 
 ## Learning
 
 Unmanaged languages (C) / Python
 
-TypeScript
+React / React-Native
 
 MongoDB
 
@@ -37,9 +41,12 @@ Reversing engineering
 
 ## Interesting
 
-Vue.js / Angular.js / React.js
+Vue.js / Angular.js / 
+
+TypeScript
 
 Openstack / Docker
+
 
 ## Experiences
 
@@ -52,6 +59,8 @@ Openstack / Docker
 * 180715 [웹 취약점 진단 교육]()
 
 * 180728 [Seoul.js Lightning Talk]()
+
+* 180809 [Okky 오픈소스 세미나]()
 
 
 ## Contact
