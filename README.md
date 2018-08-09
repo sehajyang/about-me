@@ -48,7 +48,7 @@ TypeScript
 Openstack / Docker
 
 
-## Experiences
+## Seminar || Meetup
 
 * 180628 [OpenInfra Days Korea 2018](https://www.openinfradays.kr/)
 
