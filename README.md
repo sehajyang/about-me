@@ -9,6 +9,8 @@ Junior Web Developer
 
 욕심내되 꾸준히 하자는 모토를 갖고있습니다 :D
 
+[기술스택은 이쪽:point_left:](https://stackshare.io/sehajyang/my-stack)
+
 
 ## Skill Set
 
