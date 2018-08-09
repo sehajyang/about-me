@@ -1,4 +1,4 @@
-https://stackshare.io/
+[![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/sehajyang/my-stack)
 # About Me
 https://about.me/sehajyang
 ## Seha
