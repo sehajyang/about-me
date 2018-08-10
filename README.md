@@ -63,7 +63,7 @@ Openstack / Docker
 
 * 180728 [Seoul.js Lightning Talk](https://seoul.js.org/meetups/2018.07.27.html)
 
-* 180809 [Okky 오픈소스 세미나 후기]([OKKY 세미나] 오픈소스, 줘도 못 먹나 - 오픈소스로 팀의 개발 생산성 높이기 by kenu)
+* 180809 [[OKKY 세미나] 오픈소스, 줘도 못 먹나 - 오픈소스로 팀의 개발 생산성 높이기 후기](https://okky.kr/article/486676)
 
 
 ## Contact
