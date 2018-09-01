@@ -65,6 +65,7 @@ Openstack / Docker
 
 * 180809 [[OKKY 세미나] 오픈소스, 줘도 못 먹나 - 오픈소스로 팀의 개발 생산성 높이기 후기](https://sehajyang.github.io/2018/08/09/okky-opensource-seminar.html)
 
+* 180901 [남궁성님 C 언어 포인터 세미나](https://m.cafe.naver.com/ArticleRead.nhn?clubid=10286641&articleid=154893&page=1&boardtype=L&menuid=208)
 
 ## Contact
 [Mail](mailto:sehajyang@gmail.com)
