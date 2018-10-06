@@ -65,6 +65,8 @@ Openstack / Docker
 
 * 180920 [[T academy]스프링부트를 이용한 웹 서비스 개발하기](https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action)
 
+* 181006 [Dev Django Korea 2018](https://festa.io/events/86)
+
 ## Contact
 [Mail](mailto:sehajyang@gmail.com)
 
