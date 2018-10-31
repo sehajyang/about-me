@@ -16,15 +16,15 @@ Junior Web Developer
 
 Java
 
-JavaScript / Node.js
+JavaScript / Node.js / React.js
 
-Spring
+Spring / Springboot
 
-Docker / AWS
+AWS
 
 Linux 
 
-MySQL / Oracle
+MySQL / Oracle / MongoDB
 
 Eclipse / Atom / VS Code / Vim
 
@@ -33,14 +33,12 @@ Eclipse / Atom / VS Code / Vim
 
 Unmanaged languages (C) / Python
 
-React / React-Native / TypeScript
-
-MongoDB
+React-Native / TypeScript
 
 
 ## Interesting
 
-Vue.js 
+Vue.js / Typescript
 
 Openstack / Docker
 
@@ -66,6 +64,7 @@ Openstack / Docker
 * 180920 [[T academy]스프링부트를 이용한 웹 서비스 개발하기](https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action)
 
 * 181006 [Dev Django Korea 2018](https://festa.io/events/86)
+
 
 ## Contact
 [Mail](mailto:sehajyang@gmail.com)
