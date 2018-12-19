@@ -7,6 +7,8 @@ Junior Web Developer
 
 넓고 얕은 지식 확장중인 뉴비개발자
 
+새로운거 배우는걸 좋아합니다
+
 욕심내되 꾸준히 하자는 모토를 갖고있습니다 :D
 
 [기술스택은 이쪽:point_left:](https://stackshare.io/sehajyang/my-stack)
@@ -31,17 +33,11 @@ Eclipse / Atom / VS Code / Vim
 
 ## Learning
 
-Unmanaged languages (C) / Python
-
-React-Native / TypeScript
-
+React.js 
 
 ## Interesting
 
-Vue.js / Typescript
-
-Openstack / Docker
-
+DevOps, Serverless
 
 ## Seminar || Meetup
 
@@ -67,6 +63,7 @@ Openstack / Docker
 
 
 ## Contact
+
 [Mail](mailto:sehajyang@gmail.com)
 
 [Blog](https://sehajyang.github.io/)
