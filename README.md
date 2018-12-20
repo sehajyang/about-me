@@ -33,13 +33,17 @@ Eclipse / Atom / VS Code / Vim
 
 ## Learning
 
-React.js 
+React.js / TDD
 
 ## Interesting
 
-DevOps, Serverless
+DevOps / Serverless
 
-## Seminar || Meetup
+## Work Experience
+
+2018.11 ~ Now / Herren's Backend Developer
+
+## Activities
 
 * 180628 [OpenInfra Days Korea 2018](https://www.openinfradays.kr/)
 
@@ -69,5 +73,4 @@ DevOps, Serverless
 [Blog](https://sehajyang.github.io/)
 
 [Twitter](https://twitter.com/sehajyang)
-
 
