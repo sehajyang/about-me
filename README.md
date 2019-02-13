@@ -3,7 +3,7 @@
 https://about.me/sehajyang
 ## Seha
 
-Junior Web Developer
+Junior Developer
 
 넓고 얕은 지식 확장중인 뉴비개발자
 
@@ -28,12 +28,12 @@ Linux
 
 MySQL / Oracle / MongoDB
 
-Eclipse / Atom / VS Code / Vim
+Intelli J / Eclipse / Atom / VS Code / Vim
 
 
 ## Learning
 
-React.js / TDD
+Python / React.js / TDD
 
 ## Interesting
 
