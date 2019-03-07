@@ -5,7 +5,7 @@ https://about.me/sehajyang
 
 Junior Developer
 
-넓고 얕은 지식 확장중인 뉴비개발자
+넓고 얕은 지식 확장중인 주니어 개발자
 
 새로운거 배우는걸 좋아합니다
 
@@ -16,13 +16,15 @@ Junior Developer
 
 ## Skill Set
 
-Java
+Java / Python
 
 JavaScript / Node.js / React.js
 
 Spring / Springboot
 
 AWS
+
+Jenkins
 
 Linux 
 
@@ -33,7 +35,7 @@ Intelli J / Eclipse / Atom / VS Code / Vim
 
 ## Learning
 
-Python / React.js / TDD
+Kotlin / React.js / TDD
 
 ## Interesting
 
@@ -64,6 +66,8 @@ DevOps / Serverless
 * 180920 [[T academy]스프링부트를 이용한 웹 서비스 개발하기](https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action)
 
 * 181006 [Dev Django Korea 2018](https://festa.io/events/86)
+
+* 190223 [KCD(Korea Community Day) 2019](https://kcd2019.festa.io/)
 
 
 ## Contact
