@@ -5,10 +5,8 @@ https://about.me/sehajyang
 
 Junior Developer
 
-넓고 얕은 지식 확장중인 주니어 개발자
-
-새로운거 배우는걸 좋아합니다
-
+넓고 얕은 지식 확장중인 주니어 개발자 입니다.  
+새로운 기술을 배우는 걸 좋아합니다.  
 욕심내되 꾸준히 하자는 모토를 갖고있습니다 :D
 
 [기술스택은 이쪽:point_left:](https://stackshare.io/sehajyang/my-stack)
@@ -16,22 +14,14 @@ Junior Developer
 
 ## Skill Set
 
-Java / Python
-
-JavaScript / Node.js / React.js
-
-Spring / Springboot
-
-AWS
-
-Jenkins
-
-Linux 
-
-MySQL / Oracle / MongoDB
-
-Intelli J / Eclipse / Atom / VS Code / Vim
-
+Java / Python  
+JavaScript / Node.js / React.js  
+Spring / Springboot  
+AWS  
+Jenkins  
+Linux   
+MySQL / Oracle / MongoDB  
+Intelli J / Eclipse / Atom / VS Code / Vim  
 
 ## Learning
 
@@ -69,12 +59,12 @@ DevOps / Serverless
 
 * 190223 [KCD(Korea Community Day) 2019](https://kcd2019.festa.io/)
 
+* 190316 [프론트엔드와 무관합니다만,](https://festa.io/events/212)
+
 
 ## Contact
 
-[Mail](mailto:sehajyang@gmail.com)
-
-[Blog](https://sehajyang.github.io/)
-
-[Twitter](https://twitter.com/sehajyang)
+[Mail](mailto:sehajyang@gmail.com)  
+[Blog](https://sehajyang.github.io/)  
+[Twitter](https://twitter.com/sehajyang)  
 
