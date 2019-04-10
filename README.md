@@ -5,8 +5,9 @@ https://about.me/sehajyang
 
 Junior Developer
 
-넓고 얕은 지식 확장중인 주니어 개발자 입니다.  
-새로운 기술을 배우는 걸 좋아합니다.  
+넓고 얕은 지식 확장중인 주니어 개발자 입니다.     
+배우거나 도전하는 것을 좋아합니다. 
+최근 좋은 코드 품질에 대한 관심이 많습니다. 
 욕심내되 꾸준히 하자는 모토를 갖고있습니다 :D
 
 [기술스택은 이쪽:point_left:](https://stackshare.io/sehajyang/my-stack)
@@ -29,7 +30,7 @@ Kotlin / React.js / TDD
 
 ## Interesting
 
-DevOps / Serverless
+DevOps / Clean Code
 
 ## Work Experience
 
