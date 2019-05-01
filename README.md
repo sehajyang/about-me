@@ -5,11 +5,11 @@ https://about.me/sehajyang
 
 Junior Developer
 
-넓고 얕은 지식 확장중인 주니어 개발자 입니다.         
+안녕하세요 넓고 얕은 지식 확장중인 주니어 개발자 입니다.         
 이것저것 배우거나 도전하는 것을 좋아합니다.   
 
 최근엔 코드품질에 대한 고민을 많이 하고있습니다.  
-욕심내되 꾸준히 하자는 모토를 갖고있습니다 :D
+욕심내되 꾸준히 하자는 모토를 갖고있습니다 :D  
 그 일환으로 개발 블로그를 운영하고 있습니다. [링크](https://sehajyang.github.io/)
 
 [기술스택은 이쪽:point_left:](https://stackshare.io/sehajyang/my-stack)
@@ -17,17 +17,17 @@ Junior Developer
 
 ## Skill Set
 
-Java / Python / Shell
-JavaScript / Node.js 
-Spring / Springboot  
+**Java** / **Python** / Shell  
+JavaScript / Node.js   
+Spring / **Springboot** 
 AWS  
-Linux   
-MySQL / Oracle / MongoDB / Redis
+Linux    
+**MySQL** / Oracle / MongoDB / Redis  
 Intelli J / PyCharm / VS Code / Web Storm / Vim  
 
 ## Learning
 
-Kotlin / TDD(BDD)
+Kotlin / **TDD(BDD)**
 
 ## Interesting
 
@@ -35,7 +35,7 @@ Clean Code
 
 ## Work Experience
 
-2018.11 ~ Now / Herren's Backend Developer
+**2018.11 ~ Now / Herren's Backend Developer**
 
 ## Activities
 
