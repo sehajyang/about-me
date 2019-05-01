@@ -5,32 +5,33 @@ https://about.me/sehajyang
 
 Junior Developer
 
-넓고 얕은 지식 확장중인 주니어 개발자 입니다.       
-배우거나 도전하는 것을 좋아합니다.   
-최근 좋은 코드 품질에 대한 관심이 많습니다.   
+넓고 얕은 지식 확장중인 주니어 개발자 입니다.         
+이것저것 배우거나 도전하는 것을 좋아합니다.   
+
+최근엔 코드품질에 대한 고민을 많이 하고있습니다.  
 욕심내되 꾸준히 하자는 모토를 갖고있습니다 :D
+그 일환으로 개발 블로그를 운영하고 있습니다. [링크](https://sehajyang.github.io/)
 
 [기술스택은 이쪽:point_left:](https://stackshare.io/sehajyang/my-stack)
 
 
 ## Skill Set
 
-Java / Python  
-JavaScript / Node.js / React.js  
+Java / Python / Shell
+JavaScript / Node.js 
 Spring / Springboot  
 AWS  
-Jenkins  
 Linux   
-MySQL / Oracle / MongoDB  
-Intelli J / Eclipse / Atom / VS Code / Vim  
+MySQL / Oracle / MongoDB / Redis
+Intelli J / PyCharm / VS Code / Web Storm / Vim  
 
 ## Learning
 
-Kotlin / React.js / TDD
+Kotlin / TDD(BDD)
 
 ## Interesting
 
-DevOps / Clean Code
+Clean Code
 
 ## Work Experience
 
@@ -61,6 +62,8 @@ DevOps / Clean Code
 * 190223 [KCD(Korea Community Day) 2019](https://kcd2019.festa.io/)
 
 * 190316 [프론트엔드와 무관합니다만,](https://festa.io/events/212)
+
+* 190427 [Spring camp 2019](https://www.springcamp.io/2019)
 
 
 ## Contact
