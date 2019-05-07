@@ -10,18 +10,19 @@ Junior Developer
 
 최근엔 코드품질에 대한 고민을 많이 하고있습니다.  
 욕심내되 꾸준히 하자는 모토를 갖고있습니다 :D  
-그 일환으로 개발 블로그를 운영하고 있습니다. [링크](https://sehajyang.github.io/)
+그 일환으로 개발 블로그를 운영하고 있습니다. 
 
-[기술스택은 이쪽:point_left:](https://stackshare.io/sehajyang/my-stack)
+[블로그](https://sehajyang.github.io/)  
+[Stack Share](https://stackshare.io/sehajyang/my-stack)  
 
 
 ## Skill Set
 
 **Java** / **Python** / Shell  
 JavaScript / Node.js   
-Spring / **Springboot** 
-AWS  
-Linux    
+Spring / **Springboot**   
+AWS   
+Linux     
 **MySQL** / Oracle / MongoDB / Redis  
 Intelli J / PyCharm / VS Code / Web Storm / Vim  
 
@@ -68,7 +69,7 @@ Clean Code
 
 ## Contact
 
-[Mail](mailto:sehajyang@gmail.com)  
-[Blog](https://sehajyang.github.io/)  
-[Twitter](https://twitter.com/sehajyang)  
+[Mail](mailto:sehajyang@gmail.com)   
+[Blog](https://sehajyang.github.io/)   
+[Twitter](https://twitter.com/sehajyang)   
 
