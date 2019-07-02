@@ -28,7 +28,7 @@ Scala
 
 ## Interesting
 서비스 확장 및 유지보수를 위한 품질 좋은 코드 및 `TDD(BDD)`를 중요하게 생각합니다.  
-최근엔 분산 메세징 시스템에도 많은 관심을 갖고 있습니다.
+함수형 프로그래밍에 관심을 가지고 공부하고 있습니다.
 
 ## Work Experience
 **2018.11 ~ Now / Herren Backend Developer**
