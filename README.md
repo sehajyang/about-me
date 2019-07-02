@@ -13,8 +13,7 @@
 
 토이프로젝트를 종종 진행하고 있으며, 해당 프로젝트들은 제 [GitHub](https://github.com/sehajyang) 에서 좀 더 자세하게 볼 수 있습니다.  
 
-## Skill Set
-[Stack Share](https://stackshare.io/sehajyang/my-stack)   
+## [Skill Set](https://stackshare.io/sehajyang/my-stack)   
 **Java** / **Python** / Shell    
 JavaScript / Node.js   
 Spring / **Springboot** / Flask  
