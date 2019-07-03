@@ -23,7 +23,7 @@ Linux
 IntelliJ / PyCharm / VS Code / WebStorm / Vim   
 
 ## Learning
-Scala
+**Scala**
 
 ## Interesting
 서비스 확장 및 유지보수를 위한 품질 좋은 코드 및 `TDD(BDD)`를 중요하게 생각합니다.  
@@ -50,7 +50,7 @@ Scala
 
 [**sanic-chatting-project**](https://github.com/sehajyang/sanic-chatting-project)
 * 채팅 웹은 실시간성이 중요하기 때문에 `Python`의 비동기 프레임워크인 `Sanic`을 활용해 개발했습니다.
-* 메세지는 `Redis` 의 `PUB/SUB` 을 활용해 빠른 입출력을 구현했으며, 유저 데이터는 `PostGresql` 에 저장됩니다.  
+* 메세지는 `Redis` 의 `PUB/SUB` 을 활용해 빠른 입출력을 구현했으며, 유저 데이터는 `PostgreSql` 에 저장됩니다.  
 
 ## Prizes
 [2019.06.02] [AngelHack Global Hackaton Series 2019 Seoul](https://www.hackathon.io/connectus3) 전체 우승 
