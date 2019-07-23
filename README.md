@@ -61,6 +61,13 @@ IntelliJ / PyCharm / VS Code / WebStorm / Vim
 * [Javascript 생태계](https://www.slideshare.net/herrenstudy/javascript-130085326)
 
 ## Activities
+### 2019
+* 190223 [KCD(Korea Community Day) 2019](https://kcd2019.festa.io/)
+* 190316 [프론트엔드와 무관합니다만,](https://festa.io/events/212)
+* 190427 [Spring camp 2019](https://www.springcamp.io/2019)
+* 190602 [AngelHackaton Seoul 2019](https://event-us.kr/angelhackseoul/event/7465)
+* 190630 [I/O Extended 2019 Seoul](https://festa.io/events/299)
+### 2018
 * 180628 [OpenInfra Days Korea 2018](https://www.openinfradays.kr/)
 * 180628 [SmartTech in Korea 2018](http://www.smarttechshow.co.kr/)
 * 180708 [개발자의 생존전략 41기](https://onoffmix.com/event/139310)
@@ -71,11 +78,6 @@ IntelliJ / PyCharm / VS Code / WebStorm / Vim
 * 180919 [[AUSG Seminar Series] 2018 F/W 초보자를 위한 AWS 뿌시기](https://www.meetup.com/ko-KR/awskrug/events/254611413/)
 * 180920 [[T academy]스프링부트를 이용한 웹 서비스 개발하기](https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action)
 * 181006 [Dev Django Korea 2018](https://festa.io/events/86)
-* 190223 [KCD(Korea Community Day) 2019](https://kcd2019.festa.io/)
-* 190316 [프론트엔드와 무관합니다만,](https://festa.io/events/212)
-* 190427 [Spring camp 2019](https://www.springcamp.io/2019)
-* 190602 [AngelHackaton Seoul 2019](https://event-us.kr/angelhackseoul/event/7465)
-* 190630 [I/O Extended 2019 Seoul](https://festa.io/events/299)
 
 ## Contact
 궁금한 사항 혹은 문의사항은 아래로 보내주세요 😄  
