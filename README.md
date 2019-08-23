@@ -97,7 +97,6 @@ IntelliJ / PyCharm / VS Code / Vim
 * 180628 [OpenInfra Days Korea 2018](https://www.openinfradays.kr/)
 
 ## Contact
-궁금한 사항 혹은 문의사항은 아래로 보내주세요 😄  
 [sehajyang@gmail.com](mailto:sehajyang@gmail.com)  
 [Twitter](https://twitter.com/sehajyang)   
 [GitHub](https://github.com/sehajyang)   
