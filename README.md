@@ -6,14 +6,14 @@
 
 ## [Seha](https://about.me/sehajyang)
 
-코드품질을 중요하게 생각하는 백엔드 개발자입니다.
-단순히 돌아가는 코드가 아닌 보다 효율적인 코드를 지향합니다.
-최근에는 스칼라, 동시성 프로그래밍에 관심이 많습니다.
+코드품질을 중요하게 생각하는 백엔드 개발자입니다.    
+단순히 돌아가는 코드가 아닌 보다 효율적인 코드를 지향합니다.  
+최근에는 스칼라, 동시성 프로그래밍에 관심이 많습니다.  
 
-새로운 지식을 습득하는 걸 좋아하기 때문에 매달 세미나와 밋업등에 참가하고 있으며, 
-꾸준한 학습 및 기록을 위해 [TIL](https://github.com/sehajyang/TIL)과 [기술 블로그](https://sehajyang.github.io/)를 1년째 운영하고 있습니다 😊 
+새로운 지식을 습득하는 걸 좋아하기 때문에 매달 세미나와 밋업등에 참가하고 있으며,   
+꾸준한 학습 및 기록을 위해 [TIL](https://github.com/sehajyang/TIL)과 [기술 블로그](https://sehajyang.github.io/)를 운영하고 있습니다 😊 
 
-토이프로젝트를 종종 진행하고 있으며, 해당 프로젝트들은 제 [GitHub](https://github.com/sehajyang) 에서 좀 더 자세하게 볼 수 있습니다.  
+토이프로젝트를 종종 진행하고 있으며, 해당 프로젝트들은 제 [GitHub](https://github.com/sehajyang) 에서 좀 더 자세하게 보실수 있습니다. 
 
 ## Skill Set
 [Stack Share 링크](https://stackshare.io/sehajyang/my-stack)   
@@ -45,7 +45,7 @@ IntelliJ / PyCharm / VS Code / Vim
   * IntelliJ, Pycharm, VSCode 
   * AWS (EC2, ELB, RDS, S3, DynamoDB)
   * RESTFul API
-* 레거시 코드 리팩토링 및 도메인 통합 테스트코드 작성**(커버리지 80%)**
+* 레거시 코드 리팩토링 및 도메인 통합 테스트코드 작성 **(커버리지 80%)**
 * AWS의 EC2, ELB, Route53, RDS, S3 등을 사용해 인프라 일부 구축 및 운영
 * SpringBoot를 이용해 고객관리 서비스의 어드민 사이트를 개발
 * 데이터 이관을 위한 크롤러 개발
