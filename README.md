@@ -33,7 +33,7 @@ IntelliJ / PyCharm / VS Code / Vim
 함수형 프로그래밍에 관심을 가지고 공부하고 있습니다.
 
 ## Work Experience
-**2018.11 ~ Now / Herren Backend Developer**
+**2018.11 ~ Now / Herren Backend Developer**  
 고객 및 매장 관리 서비스 [공비서](http://www.gongbiz.kr/)의 서버/벡엔드 개발 및 운영 인프라 구축을 담당했습니다.   
 * Development
   * **Java**, **Python**
