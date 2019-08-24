@@ -34,7 +34,7 @@ IntelliJ / PyCharm / VS Code / Vim
 
 ## Work Experience
 **2018.11 ~ Now / Herren Backend Developer**
-고객 및 매장 관리 서비스 [공비서](http://www.gongbiz.kr/)의 서버/벡엔드 개발 및 운영 인프라 구축을 담당했습니다. 
+고객 및 매장 관리 서비스 [공비서](http://www.gongbiz.kr/)의 서버/벡엔드 개발 및 운영 인프라 구축을 담당했습니다.   
 * Development
   * **Java**, **Python**
   * **Springboot**
@@ -61,7 +61,7 @@ IntelliJ / PyCharm / VS Code / Vim
 
 [**sanic-chatting-project**](https://github.com/sehajyang/sanic-chatting-project)
 * 실시간성이 중요했기 때문에 `Python`의 비동기 프레임워크인 `Sanic`을 이용해 개발했습니다.
-* 메세지는 `Redis` 의 `PUB/SUB` 을 활용해 빠른 입출력을 구현했으며, 유저 데이터는 `PostgreSql` 에 저장됩니다.  
+* 메세지는 `Redis` 의 `PUB/SUB` 을 활용해 빠른 입출력을 구현했으며, 유저 데이터는 `PostgreS` 에 저장됩니다.  
 
 ## Prizes
 * [2019.06.02] [AngelHack Global Hackaton Series 2019 Seoul](https://www.hackathon.io/connectus3) 전체 우승 
