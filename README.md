@@ -19,10 +19,10 @@
 [Stack Share 링크](https://stackshare.io/sehajyang/my-stack)   
 **Java** / **Python** / JavaScript     
 Spring / **Springboot** / Flask / Sanic  
-AWS(EC2, ELB, Route53, S3, DynamoDB)   
+AWS(EC2, ELB, S3, SQS, Lambda)   
 Linux     
-**MySQL** / Oracle / Redis / MongoDB   
-IntelliJ / PyCharm / VS Code / Vim   
+**MySQL** / Oracle / Redis
+IntelliJ / PyCharm  
 **Git** / GitHub / GitLab 
 
 ## Learning
