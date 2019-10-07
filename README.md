@@ -7,7 +7,7 @@
 ## [Seha](https://about.me/sehajyang)
 
 안녕하세요 저는 코드품질을 중요하게 생각하는 주니어 백엔드 개발자입니다.
-단순히 돌아가는 코드가 아닌 보다 효율적인 코드를 지향하고 있습니다.
+단순히 돌아가는 코드가 아닌 보다 효율적인 코드를 지향하고 있습니다.  
 최근에는 스칼라, 동시성 프로그래밍에 관심이 많습니다.
 
 새로운 지식을 습득하는 걸 좋아하기 때문에 종종 세미나와 밋업등에 참가하고 있으며,   
@@ -18,7 +18,7 @@
 ## Skill Set
 [Stack Share 링크](https://stackshare.io/sehajyang/my-stack)   
 **Java** / **Python** / JavaScript     
-Spring / **Springboot** / Flask / Sanic
+Spring / **Springboot** / Flask / Sanic  
 AWS(EC2, ELB, S3, Lambda, SQS, API Gateway)   
 Linux     
 **MySQL** / Oracle / Redis   
