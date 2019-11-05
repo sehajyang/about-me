@@ -6,12 +6,12 @@
 
 ## [Seha](https://about.me/sehajyang)
 
-안녕하세요 저는 코드품질을 중요하게 생각하는 주니어 백엔드 개발자입니다.
-단순히 돌아가는 코드가 아닌 보다 효율적인 코드를 지향하고 있습니다.  
+안녕하세요 저는 주니어 백엔드 개발자입니다.  
+테스트코드, 리팩토링을 중요하게 생각하며, 단순히 돌아가는 코드가 아닌 효율적인 코드를 지향하고 있습니다.  
 최근에는 스칼라, 동시성 프로그래밍에 관심이 많습니다.
 
 새로운 지식을 습득하는 걸 좋아하기 때문에 종종 세미나와 밋업등에 참가하고 있으며,   
-꾸준한 학습 및 기록을 위해 [TIL](https://github.com/sehajyang/TIL)과 [기술 블로그](https://sehajyang.github.io/)를 운영하고 있습니다 😊 
+꾸준한 학습 및 기록을 위해 [TIL](https://github.com/sehajyang/TIL)과 [기술 블로그](https://sehajyang.github.io/)를 운영하고 있습니다😊 
 
 토이프로젝트를 종종 진행하고 있으며, 해당 프로젝트들은 제 [GitHub](https://github.com/sehajyang) 에서 좀 더 자세하게 보실수 있습니다. 
 
@@ -28,10 +28,6 @@ IntelliJ / PyCharm
 ## Learning
 **Scala**
 
-## Interesting
-`TDD(BDD)`를 중요하게 생각합니다.  
-함수형 프로그래밍에 관심을 갖고 있습니다.
-
 ## Work Experience
 **2018.11 ~ Now / Herren Backend Developer**  
 고객 및 매장 관리 서비스 [공비서](http://www.gongbiz.kr/)의 서버/벡엔드 개발 및 운영 인프라 구축을 일부 담당했습니다.   
@@ -45,14 +41,13 @@ IntelliJ / PyCharm
   * IntelliJ, Pycharm 
   * AWS (EC2, ELB, RDS, S3, SQS, Lambda)
   * RESTFul API
-* 레거시 코드 리팩토링 및 도메인 통합 테스트코드 작성**(커버리지 80%)**
+* 레거시 코드 리팩토링 및 테스트코드 작성 **(커버리지 80%)**
+* AWS의 **SQS, Lambda** 를 이용해 문자발송 최적화 구축
 * AWS의 EC2, ELB, Route53, RDS, S3 등을 사용해 인프라 일부 구축 및 운영
 * SpringBoot를 이용해 고객관리 서비스의 어드민 사이트 일부 개발
-* 크롤러 개발
-* AWS의 `SQS, Lambda`를 이용해 병목없는 예약문자 발송기능 구축
 * 모바일 어플리케이션 통합을 위한 API 서버 개발
-* `CI/CD`를 직접 구축해 기존 수동 배포방식을 버리고 팀의 개발능률을 향상시킴
-* 시간 및 자원이 많이 소요되던 기존 `Python`코드를 `Asyncio`기반의 비동기방식으로 리팩토링해 15분 이상 소요되던 작업을 2분이내로 단축시킴
+* **CI/CD**를 직접 구축해 기존 수동 배포방식을 없앰
+* 시간 및 자원이 많이 소요되던 기존 `Python` 레거시 코드를 `Asyncio`기반의 비동기방식으로 리팩토링
 
 ## Side Project
 [**simple-anonymous-board**](https://github.com/sehajyang/simple-anonymous-board)
@@ -81,6 +76,7 @@ IntelliJ / PyCharm
 
 ## Activities
 ### 2019
+* 191028 [스포카 크리에이터 컨퍼런스: Hello World!](https://festa.io/events/621)
 * 190926 [우아한 테크 세미나 - 우아한 스프링배치 참가](https://jojoldu.tistory.com/451?category=635883)
 * 190901 [Amathon 2019 참가](https://amathon.ga/)
 * 190824 [뱅크샐러드 컨퍼런스 Con-Salad 05](https://festa.io/events/413)
