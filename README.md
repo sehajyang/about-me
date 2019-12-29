@@ -7,23 +7,23 @@
 ## [Seha](https://about.me/sehajyang)
 
 안녕하세요 저는 주니어 백엔드 개발자입니다.  
-테스트코드, 리팩토링을 중요하게 생각하며, 단순히 돌아가는 코드가 아닌 효율적인 코드를 지향하고 있습니다.  
-최근에는 스칼라, 동시성 프로그래밍에 관심이 많습니다.
-
-새로운 지식을 습득하는 걸 좋아하기 때문에 종종 세미나와 밋업등에 참가하고 있으며,   
-꾸준한 학습 및 기록을 위해 [TIL](https://github.com/sehajyang/TIL)과 [기술 블로그](https://sehajyang.github.io/)를 운영하고 있습니다😊 
-
-토이프로젝트를 종종 진행하고 있으며, 해당 프로젝트들은 제 [GitHub](https://github.com/sehajyang) 에서 좀 더 자세하게 보실수 있습니다. 
+테스트코드와 리팩토링을 중요하게 생각하며, 단순히 돌아가는 코드가 아닌 효율적인 코드를 지향하고 있습니다.  
+최근에는 스칼라, 동시성 프로그래밍에 관심이 많습니다.  
+종종 세미나와 밋업등에 참가하고 있으며 [기술 블로그](https://sehajyang.github.io/)를 운영하고 있습니다.  
+제 토이프로젝트는 저의 [GitHub](https://github.com/sehajyang) 에서 좀 더 자세하게 보실수 있습니다.  
 
 ## Skill Set
 [Stack Share 링크](https://stackshare.io/sehajyang/my-stack)   
-**Java** / **Python** / JavaScript     
+**Java** / **Python** / JavaScript  
 Spring / **Springboot** / Flask / Sanic  
-AWS(EC2, ELB, S3, Lambda, SQS, API Gateway)   
-Linux     
+JPA / Querydsl / Hibernate  
+Junit 4,5 / Mockito / Spock  
 **MySQL** / Oracle / Redis   
-IntelliJ / PyCharm     
-**Git** / GitHub / GitLab 
+**AWS**(EC2, ELB, S3, Lambda, SQS, API Gateway) / Docker  
+Jenkins / TravisCI / GitlabCI / AWS CICD(code commit, build, deploy etc)  
+Linux     
+**Git** / GitHub / GitLab  
+IntelliJ / PyCharm 
 
 ## Learning
 **Scala**
@@ -41,13 +41,13 @@ IntelliJ / PyCharm
   * IntelliJ, Pycharm 
   * AWS (EC2, ELB, RDS, S3, SQS, Lambda)
   * RESTFul API
-* 레거시 코드 리팩토링 및 테스트코드 작성 **(커버리지 80%)**
-* AWS의 **SQS, Lambda** 를 이용해 문자발송 최적화 구축
+* 레거시 코드 리팩토링 및 테스트코드 작성 **(coverage 80%)**
+* AWS의 **SQS, Lambda** 를 이용해 서버리스 문자발송 최적화 구축
 * AWS의 EC2, ELB, Route53, RDS, S3 등을 사용해 인프라 일부 구축 및 운영
-* SpringBoot를 이용해 고객관리 서비스의 어드민 사이트 일부 개발
+* SpringBoot를 이용해 고객관리 서비스의 어드민 사이트 개발
 * 모바일 어플리케이션 통합을 위한 API 서버 개발
 * **CI/CD**를 직접 구축해 기존 수동 배포방식을 없앰
-* 시간 및 자원이 많이 소요되던 기존 `Python` 레거시 코드를 `Asyncio`기반의 비동기방식으로 리팩토링
+* 시간 및 자원이 많이 소요되던 기존 `Python` 레거시 코드들을 `Asyncio`기반의 비동기방식으로 리팩토링
 
 ## Side Project
 [**simple-anonymous-board**](https://github.com/sehajyang/simple-anonymous-board)
@@ -76,6 +76,7 @@ IntelliJ / PyCharm
 
 ## Activities
 ### 2019
+* 191127 [우아한 테크 러닝 - DDD 세레나데 교육](https://edu.nextstep.camp/c/GwN2MSqv/)
 * 191028 [스포카 크리에이터 컨퍼런스: Hello World!](https://festa.io/events/621)
 * 190926 [우아한 테크 세미나 - 우아한 스프링배치 참가](https://jojoldu.tistory.com/451?category=635883)
 * 190901 [Amathon 2019 참가](https://amathon.ga/)
