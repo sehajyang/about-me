@@ -29,7 +29,10 @@ IntelliJ / PyCharm
 **Scala**
 
 ## Work Experience
-**2018.11 ~ Now / Herren Backend Developer**  
+
+**2019.02 ~ now / PawCompany Backend Developer**
+
+**2018.11 ~ 2019.02 / Herren Backend Developer**  
 고객 및 매장 관리 서비스 [공비서](http://www.gongbiz.kr/)의 서버/벡엔드 개발 및 운영 인프라 구축을 일부 담당했습니다.   
 * Development
   * **Java**, **Python**
