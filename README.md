@@ -1,4 +1,3 @@
-[![linkein](https://img.shields.io/badge/LinkedIn-남윤지-blue.svg?style=flat)](https://www.linkedin.com/in/%EC%9C%A4%EC%A7%80-%EB%82%A8-09b834165/)
 ![email](https://img.shields.io/badge/Email-sehajyang@gmail.com-red.svg)
 [![Blog](https://img.shields.io/badge/Blog-sehajyang.github.io-yellowgreen.svg?style=flat)](https://sehajyang.github.io/) 
 [![Twitter](https://img.shields.io/badge/Twitter-@sehajyang-skyblue.svg?style=flat)](https://twitter.com/sehajyang) 
